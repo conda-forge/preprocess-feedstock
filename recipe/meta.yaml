@@ -1,6 +1,6 @@
 {% set name = "preprocess" %}
-{% set version = "1.2.2" %}
-{% set sha256 = "17740181bd7466cfe43cad3bfcfd55b9f02d1e002ed4bcd47a456c2ef055657f" %}
+{% set version = "1.2.3" %}
+{% set sha256 = "aa1d63ad0e424999c8fca107ef64340eae8967a64417463271311eef82073c49" %}
 
 package:
   name: {{ name|lower }}
